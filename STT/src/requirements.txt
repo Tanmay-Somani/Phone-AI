@@ -1,0 +1,5 @@
+pyqt6
+PyQt6-WebEngine
+tensorflow
+numpy<2
+pyinstaller
